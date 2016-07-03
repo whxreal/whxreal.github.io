@@ -1,6 +1,6 @@
 {
   "name": "Web Navi",
   "tagline": "Welcome!",
-  "body": "VPS：\r\n\r\n\t* webshell https://hanxiao.ml:8080\r\n\t* owncloud http://hanxiao.ml/owncloud\r\n\t* phpmyadmin \r\n\t* wordpress\r\n\r\n\r\nVMware\r\n\r\n\t* weshell https://notok.iok.la:4200/\r\n\t* Plex        http://notok.iok.la:32400/web\r\n\t* http        http://notok.iok.la:8888/\r\n\r\n\r\nRouter\r\n\r\n\t* ftp 211\r\n\t* http http://notok.iok.la:8080/www\r\n\t* ss 1080\r\n\t* wol 3389\r\n\t* samba 139\r\n\t* luci 8080\r\n\t* ssh  22\r\n\t* pptp 1723\r\n\t* share http://notok.iok.la/www/pan\r\n\r\n\r\nOthers\r\n\r\n\t* GithubBlog  http://www.hanxiao.ml/ 我的导航页\r\n\r\n",
+  "body": "VPS：\r\n\r\n\t* [WebShell](https://hanxiao.ml:8008/)\r\n\t* [owncloud](http://hanxiao.ml/owncloud)\r\n\t* [PHPMyadmin](http://hanxiao.ml/phpmyadmin/)\r\n\t* wordpress\r\n\r\n\r\nVMware\r\n\r\n\t* weshell     https://notok.iok.la:4200/\r\n\t* [Plex](http://notok.iok.la:32400/web)\r\n\r\n\r\nRouter\r\n\r\n\t* ftp 211\r\n\t* http http://notok.iok.la:8080/www\r\n\t* ss 1080\r\n\t* wol 3389\r\n\t* samba 139\r\n\t* luci 8080\r\n\t* ssh  22\r\n\t* pptp 1723\r\n\t* share http://notok.iok.la/www/pan\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
